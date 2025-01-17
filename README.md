@@ -30,5 +30,3 @@ To compile the project, follow these steps:
    ```
    make
    ```
-![image](https://github.com/user-attachments/assets/3ed5bce7-273b-4d1f-85f6-6691d0e0e1ca)
-![image](https://github.com/user-attachments/assets/3248f966-ebba-4a4e-9ccd-a3aee7272f89)
