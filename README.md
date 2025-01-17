@@ -21,8 +21,7 @@ To compile the project, follow these steps:
    ```
 3. Navigate to the project directory:
    ```
-   cd GeoGuesser
-   cd CPP Files
+   cd GeoGuesser/CPP\ Files
    ```
 4. Run the following command to compile the project:
    ```
