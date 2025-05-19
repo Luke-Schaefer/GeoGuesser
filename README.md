@@ -20,7 +20,7 @@ To compile the project, follow these steps:
 
 2. Clone the repository:
    ```
-   got clone https://github.com/Luke-Schaefer/GeoGuesser.git
+   git clone https://github.com/Luke-Schaefer/GeoGuesser.git
    ```
 3. Navigate to the project directory:
    ```
